@@ -13,7 +13,7 @@ The features of this program are:
 8. Delete questions from local storage
 
 
-# Contoh
+# Example
 ```txt
 Ibukota Indonesia adalah...
 A. Bandung
