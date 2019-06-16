@@ -11,3 +11,21 @@ The features of this program are:
 6. Save questions to local storage
 7. Load questions from local storage
 8. Delete questions from local storage
+
+
+# Contoh
+Ibukota Indonesia adalah...
+A. Bandung
+B. Jakarta
+C. Surabaya
+D. Medan
+E. Makasar
+Jawaban: B
+
+Presiden pertama Indonesia adalah...
+A. Soekarno
+B. Soeharto
+C. B.J. Habibie
+D. Abdurahman Wahid
+E. Susilo Bambang Yudhoyono
+Jawaban: A
