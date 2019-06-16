@@ -14,6 +14,7 @@ The features of this program are:
 
 
 # Contoh
+```txt
 Ibukota Indonesia adalah...
 A. Bandung
 B. Jakarta
@@ -29,3 +30,4 @@ C. B.J. Habibie
 D. Abdurahman Wahid
 E. Susilo Bambang Yudhoyono
 Jawaban: A
+```
